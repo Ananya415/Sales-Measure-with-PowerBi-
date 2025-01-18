@@ -61,7 +61,7 @@ The project focuses on the following tasks:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MdFahimShahoriar/Sales-Data-Analysis.git
+   git clone https://github.com/Ananya415/Sales-Measure-with-PowerBi-.git
    ```
 2. Review the data:
    - Inspect the `Orders.csv` file for an understanding of the raw data.
